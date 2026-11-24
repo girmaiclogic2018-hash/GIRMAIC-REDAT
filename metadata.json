@@ -1,0 +1,6 @@
+{
+  "name": "Girmaic Tech Dire Dawa AI Assistant",
+  "description": "Official AI Assistant for Girmaic Technology Trading One Member PLC, empowering public service efficiency, document drafting, and citizen request management in Dire Dawa and Ethiopia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
